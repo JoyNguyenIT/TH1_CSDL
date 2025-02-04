@@ -1,4 +1,6 @@
 # TH1_CSDL
+
+
 CREATE TABLE KHOAHOC (
     MAKH char(4) PRIMARY KEY , 
     TENKH varchar(50) NOT NULL ,
